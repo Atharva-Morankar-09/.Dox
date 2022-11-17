@@ -1,3 +1,8 @@
+
+1) Interface -
+
+<img src="https://github.com/Atharva-Morankar-09/.Dox/blob/main/ss.jpg" height=290px>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
